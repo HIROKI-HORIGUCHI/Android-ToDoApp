@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">To_Do_App</string>
+    <string name="action_add">追加</string>
+    <string name="hint_title">タイトル</string>
+    <string name="hint_detail">詳細</string>
+    <string name="action_delete">削除</string>
+    <string name="edit_activity_title">編集</string>
+    <string name="msg_destruction">メモを破棄しました</string>
+    <string name="msg_del">メモを破棄しました</string>
+
+</resources>
