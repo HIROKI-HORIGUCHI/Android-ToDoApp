@@ -7,6 +7,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <!--RelativeLayoutの中にListViewを配置している。ListViewには、ファイル形式で保存された全ての入力ファイルが一つずつfor文を用いて代入されることになっている。-->
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"

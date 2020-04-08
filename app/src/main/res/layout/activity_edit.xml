@@ -6,6 +6,8 @@
     android:layout_height="match_parent"
     tools:context=".EditActivity">
 
+
+    <!--編集可能なテキストを置くために、EditTextを配置-->
     <LinearLayout
         xmlns:android="http://schemas.android.com/apk/res/android"
         android:orientation="vertical"
